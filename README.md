@@ -2,7 +2,8 @@
 
 GREETINGS EVERYONE, \
 This is a web application where its about creating a automated time table for different batches. \
-Its still in brain storming phase , im still trying to figure out the features and components that should be present in the project 
+im still trying to figure out the features and components that should be present in the project \
+created basic working of the proj
 
 
 
